@@ -1,1 +1,6 @@
-# kaggle_houseprice_regression
+# House Price Regression (kaggele)
+
+## objective
+> 
+## Data
+> 
